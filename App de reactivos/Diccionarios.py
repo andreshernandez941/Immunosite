@@ -59,10 +59,12 @@ Stock_cucarachas = {
     "Periplaneta americana":0}
 Dict_gramineas = {
     "1":"Grass timoteo",
-    "2":"Grass comun"}
+    "2":"Grass comun",
+    "3":"Mezcla gramineas"}
 Stock_gramineas = {
     "Grass timoteo":0,
-    "Grass comun":0}
+    "Grass comun":0,
+    "Mezcla gramineas":0}
 Dict_alimentos = {
     "1":"Ovomucoide",
     "2":"Ovoalbumina",
